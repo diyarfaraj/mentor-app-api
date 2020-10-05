@@ -9,9 +9,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace mentor_app_api.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class UsersController : ControllerBase
+    
+    public class UsersController : BaseApiController
     {
         private readonly DataContext _context;
 
