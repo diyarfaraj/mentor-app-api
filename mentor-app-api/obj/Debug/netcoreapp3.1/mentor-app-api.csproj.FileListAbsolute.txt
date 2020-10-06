@@ -61,5 +61,3 @@ C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.
 C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsqlite3.dylib
 C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sqlite3.dll
 C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sqlite3.dll
-C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\obj\Debug\netcoreapp3.1\mentor-app-api.csproj.CoreCompileInputs.cache
-C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\obj\Debug\netcoreapp3.1\mentor-app-api.MvcApplicationPartsAssemblyInfo.cache
