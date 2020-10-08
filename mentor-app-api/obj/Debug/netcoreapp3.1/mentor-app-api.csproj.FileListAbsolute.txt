@@ -61,3 +61,13 @@ C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.
 C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsqlite3.dylib
 C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sqlite3.dll
 C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\obj\Debug\netcoreapp3.1\mentor-app-api.csproj.CoreCompileInputs.cache
+C:\Users\Diyar\source\repos\mentor-app-api\mentor-app-api\obj\Debug\netcoreapp3.1\mentor-app-api.MvcApplicationPartsAssemblyInfo.cache

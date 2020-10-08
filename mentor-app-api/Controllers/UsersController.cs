@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using mentor_app_api.Data;
 using mentor_app_api.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -20,6 +21,7 @@ namespace mentor_app_api.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
         {
             var users = _context.Users.ToListAsync();
@@ -27,6 +29,7 @@ namespace mentor_app_api.Controllers
             return await users;
         }
 
+        [Authorize]
         [HttpGet("{id}")]
         public async Task<ActionResult<AppUser>> GetUser(int id)
         {
